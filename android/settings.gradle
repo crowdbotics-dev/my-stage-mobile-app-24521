@@ -1,0 +1,3 @@
+rootProject.name = 'my_stage_mobile_app_24521'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
